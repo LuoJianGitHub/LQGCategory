@@ -1,0 +1,16 @@
+PODS:
+  - LQGCategory (1.0.0)
+
+DEPENDENCIES:
+  - LQGCategory (from `../`)
+
+EXTERNAL SOURCES:
+  LQGCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LQGCategory: 4cf1fff218a7559bbd5b3ae9162508bf87b6cb0a
+
+PODFILE CHECKSUM: 0deb60a3d3605ec9cfeaede30bd775c2f4372ed6
+
+COCOAPODS: 1.11.2
